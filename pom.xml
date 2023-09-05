@@ -9,7 +9,7 @@
     <properties>
         <java.version>1.8</java.version>
         <zipkin.version>5.11.2</zipkin.version>
-        <kafka.version>2.2.1</kafka.version>
+        <kafka.version>2.6.3</kafka.version>
         <zipkin.sender.kafka.version>2.12.2</zipkin.sender.kafka.version>
     </properties>
 
